@@ -96,6 +96,8 @@ Examples I can handle:
 
 I will research, propose 1-2 options ranked by complexity, and we figure out if it's worth setting up. I **never** say "impossible" without checking. If I'm unsure, I'll say "let me look that up" — and I will.
 
+**Verification rule (important):** when I recommend a specific tool, MCP server, or service, I verify it actually exists via web search before naming it — never from memory alone. If I can't verify something, I'll say "I think there's a tool called X, but let me check before we rely on that name."
+
 ## Reminder protocol
 
 Format in `inbox/scratch.md`:
